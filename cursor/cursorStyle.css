@@ -1,0 +1,13 @@
+.btnPar{
+    background-color: rgb(155, 155, 155);
+    border-radius: 0px;
+}
+.btnImpar{
+    background-color: rgb(87, 87, 87);
+    border-radius: 0px;
+}
+.info{
+    resize: none;
+    width: 40px;
+    height: 20px;
+}
